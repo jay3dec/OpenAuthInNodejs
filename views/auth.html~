@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<body>
+Welcome to Node.js Open Auth<br> </br>
+<a href="/auth/google">Sign In with Google</a> <br> </br>
+<a href="/auth/twitter">Sign in with Twitter</a><br></br>
+<a href="/auth/facebook">Login with Facebook</a><br></br>
+<a href="/auth/github">Login with Github</a>
+</body>
+</html>
